@@ -1,0 +1,85 @@
+.bookbg{
+  background-color: blanchedalmond;
+  width: 100%;
+  min-height: 95vh;
+  background-image: url(./asset/notecover.JPG);
+  /* background-image: url(./asset/notecover.JPG); */
+}
+/* div 1 */
+.dv1{
+  /* margin-left: auto ; */
+  width:7em;
+  /* height: 70%; */
+  background-color: #E93991;
+  margin-left: auto;
+  padding-top: 25px;
+  text-align: center;
+  border-radius: 0 0 0 30px;
+  border-left: solid 2px;
+  border-bottom: solid 2px;
+}
+.crowic{
+  width: 35px;
+}
+
+.forty{
+  margin-top: 0px;
+  font-size: 60px;
+  padding-bottom: 0px;
+  color: aliceblue;
+}
+.leaves{
+  margin-top: 0px;
+  writing-mode: vertical-rl;
+  color: aliceblue;
+  text-orientation: mixed;
+}
+
+/* section 2 began herer */
+.sec2{
+
+  
+}
+
+.sec2dv1{
+  background-color: darkgoldenrod;
+  height:60px;
+  
+  width: 15rem;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  border-radius: 49%;
+  border: 4px solid black;
+  /* padding: ; */
+}
+
+.crtxt{
+  padding-bottom: 0px;
+}
+.exptxt{
+  padding-top: 0px;
+  font-size: 30px;
+  /* font-style: oblique; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* section 3 */
+.sec3dv1{
+  display: flex;
+  position: absolute;
+  top: 80vh;
+  /* justify-content:space-between ; */
+  /* row-gap: 40px; */
+  gap: 15px;
+  margin-left: 2vh;
+  
+}
+
+.sec3dv1sp1 {
+  background-color: aliceblue;
+  /* height: 9vh; */
+  padding-top: 5px;
+  border-radius: 10px;
+  padding: 5px;
+}
